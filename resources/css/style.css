@@ -367,8 +367,7 @@ header {
 /* ----------------------------------------------- */
 
 .section-testimonials {
-    padding-top: 20%;
-    height: 100vh;
+    padding: 15%;
     background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
     background-size: cover;

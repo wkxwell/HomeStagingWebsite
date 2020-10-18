@@ -18,6 +18,11 @@
         width: 80%;
         margin-left: 10%;
     }
+
+    .main-nav{
+        width: 70%;
+        font-size: 80%;
+    }
     
     .steps-box { margin-top: 10px; }
     .steps-box:last-child { margin-top: 10px; }
@@ -117,5 +122,6 @@
 @media only screen and (max-width: 480px) {
     section { padding: 25px 0; }
     .contact-form {width: 100%; }
+    .gallery-showcase li{ width: 50%; display: inline-table;}
 }
 
